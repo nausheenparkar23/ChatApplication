@@ -1,3 +1,8 @@
+# About the Application 
+
+This is a simple chat application made using React and ChatEngine API. It has functions like creating new groups, changing name of group, adding people in the group. One can also see who are online, send images as attachment in group and rest of the members of the group will be able to view it immediately. Since it is a mini project, adding users is done only from the chat engine server and not through the front end. However, after the user has been created, one has to login by entering valid credentials in order to start the chat application. Also, only the admin of the group can add/delete users from the group.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
